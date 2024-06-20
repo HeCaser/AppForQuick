@@ -12,6 +12,7 @@
         android:theme="@style/Theme.AppForQuick"
         tools:targetApi="31">
         <activity
+            android:theme="@style/Theme.AppForQuick"
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
